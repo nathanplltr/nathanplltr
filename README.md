@@ -16,9 +16,6 @@ J’adore transformer des idées en interfaces claires, modernes et fonctionnell
 - 📰 Communication visuelle : flyers, vidéos, identités visuelles, supports print  
 - ⚡ Projets créatifs, interactifs et orientés utilisateur  
 
-### 🔥 Ce qui me motive :
-Apprendre chaque jour, créer, expérimenter… et rendre chaque projet plus pro que le précédent.
-
 ---
 
 ## 🛠️ Technologies & Outils
