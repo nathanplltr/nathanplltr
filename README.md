@@ -13,8 +13,7 @@ J’adore transformer des idées en interfaces claires, modernes et fonctionnell
 ### 🌟 Ce que je fais :
 - 🌐 Développement web (PHP, MySQL, HTML/CSS, JavaScript)  
 - 🎨 Graphisme & UI/UX (Photoshop, Illustrator, InDesign, Premiere Pro, After Effects)  
-- 📰 Communication visuelle : flyers, vidéos, identités visuelles, supports print  
-- ⚡ Projets créatifs, interactifs et orientés utilisateur  
+- 📰 Communication visuelle : flyers, vidéos, identités visuelles, supports print
 
 ---
 
