@@ -70,7 +70,7 @@ Spécialités : Mathématiques & SVT.
 ---
 
 ## ⚡ Fun facts
-- 🏋️ Je fais de la musculation et de la course  
+- 🏋️ Je fais de la musculation et de la course à pied
 - 🎧 Passionné de musique  
 - 🧠 Toujours curieux et motivé à apprendre  
 - 🎨 Fan de graphisme et d'UI moderne  
