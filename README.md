@@ -61,20 +61,16 @@ Spécialités : Mathématiques & SVT.
 
 ---
 
-## 🌍 Retrouve-moi
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Pelletier%20Nathan-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/pelletier-nathan/)
-
-📫 **Mail :** nathan.plltr@gmail.com
-
----
-
 ## ⚡ Fun facts
 - 🏋️ Je fais de la musculation et de la course à pied
 - 🎧 Passionné de musique  
 - 🧠 Toujours curieux et motivé à apprendre  
-- 🎨 Fan de graphisme et d'UI moderne  
+- 🎨 Fan de graphisme et d'UI moderne
 
 ---
 
-✨ *Merci de passer sur mon profil !*
+## 🌍 Retrouvez-moi
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Pelletier%20Nathan-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/pelletier-nathan/)
+
+📫 **Mail :** nathan.plltr@gmail.com
