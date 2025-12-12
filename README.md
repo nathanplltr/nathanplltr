@@ -1,7 +1,7 @@
 <h1 align="center">👋 Salut, moi c’est Nathan</h1>
 
 Développeur Web & Designer • Étudiant en **DEUST WMI (ULCO)**  
-Passionné par le digital, la création et l’ergonomie.
+Passionné par le digital et la création.
 
 ---
 
