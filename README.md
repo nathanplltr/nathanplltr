@@ -73,4 +73,4 @@ Spécialités : Mathématiques & SVT.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Pelletier%20Nathan-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/pelletier-nathan/)
 
-📫 **Mail :** nathan.plltr@gmail.com
+📫 **Mail :** nathan.plltr[@]gmail.com
